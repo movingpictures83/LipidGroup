@@ -1,0 +1,2 @@
+Prefix plugins/LipidGroup/example/
+Plugin LipidGroup inputfile parameters.lipidgroup.txt outputfile QC.rds
